@@ -4,6 +4,7 @@
 [Keda Tao](), [Haoxuan You](https://hxyou.github.io/), [Yang Sui](https://eclipsess.github.io/yangsui.github.io/), [Can Qin](https://canqin.tech/), [Huan Wang](https://huanwang.tech/), "Plug-and-Play _1.x-Bit_ KV Cache Quantization for Video Large Language Models"
 
 [[Paper](https://arxiv.org/abs/2503.16257)]
+[[中文文档](README_zh.md)]
 
 #### 🔥🔥🔥 News
 
